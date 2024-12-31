@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...    
 希望有一天能够所有项目都收到很多星星
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<sjq0098>&layout=compact&langs_count=8&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjq0098&layout=compact&langs_count=8&theme=vue)
 
 <!---
 sjq0098/sjq0098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
