@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjq0098)](https://github.com/sjq0098/github-readme-stats)
 
-## 📈 活动图表
+## 📈 活动图表（完全没有成果说是）
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjq0098&theme=github-compact)
 
