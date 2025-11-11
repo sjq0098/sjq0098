@@ -17,16 +17,6 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-**Languages & Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,linux,git,github,markdown,jupyter,tensorflow,pytorch,vscode&perline=8" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
