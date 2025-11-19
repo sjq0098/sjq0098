@@ -13,6 +13,7 @@
   - 🔍 **Information Retrieval**
   - 💻 **408 Computer Science Course**
 - 💬 Always open to discuss **AI for biology**, **omics data**, or **scientific computing**
+- Also interested in AI Infra, such as inference acceleration for LLM
 - 🌟 Goal: One day, every repo will shine with ⭐
 
 ---
