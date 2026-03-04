@@ -1,18 +1,17 @@
 # 👋 Hi there, I'm **@sjq0098**
 
-> 🌱 “Keep learning, keep exploring — from biology to algorithms.”
+> 🌱 “Keep learning, keep exploring — from data retrieval to intelligent systems.”
 
 ---
 
 ## 🧬 About Me
 
-- 🎓 A learner in **Bioinformatics** & **Computational Biology**
+- 🎓 Majoring in **Computer Science and Technology**
 - 💡 Currently exploring:
   - 🧠 **Machine Learning**
   - 📊 **Data Mining**
   - 🔍 **Information Retrieval**
   - 💻 **408 Computer Science Course**
-- 💬 Always open to discuss **AI for biology**, **omics data**, or **scientific computing**
 - Trying to learn about agent and RAG system
 - Also interested in AI Infra, such as inference acceleration for LLM
 - 🌟 Goal: One day, every repo will shine with ⭐
@@ -43,7 +42,6 @@
 
 ## 🧩 Fun Stuff
 
-- ⚡ Random fact: *I debug biology and code with equal curiosity.*
 - 😄 Pronouns: *He / Him*  
 - 📫 Reach me via: *coming soon... maybe when I fix my last bug 🐛*
 
