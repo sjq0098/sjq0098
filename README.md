@@ -15,6 +15,8 @@
 - Trying to learn about agent and RAG system
 - Also interested in AI Infra, such as inference acceleration for LLM
 - 🌟 Goal: One day, every repo will shine with ⭐
+- Feel free to contract me if you have any question about learning in NKU
+- Currently seeking internship opportunities in the LLM/AI Agent field.
 
 ---
 
@@ -43,7 +45,7 @@
 ## 🧩 Fun Stuff
 
 - 😄 Pronouns: *He / Him*  
-- 📫 Reach me via: *coming soon... maybe when I fix my last bug 🐛*
+- 📫 Reach me via: *jqshen@mail.nankai.edu.cn*
 
 ---
 
